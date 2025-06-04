@@ -56,7 +56,7 @@
     ],
   },
   linux: {
-    target: ['snap'],
+    target: ['AppImage'],
     category: 'Development',
     extraResources: [
       {
